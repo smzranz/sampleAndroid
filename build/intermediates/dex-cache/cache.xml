@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_bf75cfcc9e76a10ee98d1356e51eb98a070dfa88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.android/build-cache/a33629a6cdef3d4218d56ae36706c8cab87fc01a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce09c6f68f6f5763c4e8c2e667e75db7e6cc701f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_638263699e7eba80b466837ec98f03e5e4c3b2b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.android/build-cache/b9800b73bcbb54a3d4f2e83af51c7ff67d8f2f79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9fbf2e3c506ea178deb401af09b38c4c1cd36d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_06d6c2a646c945e8b44fa9fbe373bb479d195935/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.android/build-cache/ed9fe5b904c03d293bbcd9112f88db53dbbb6dbb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a7940029232163ca7c5765dfb6f1d0325c863c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_d434833688f7d90c5942082d3b62dfb0f1b017c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.6.0/81887458b69ddc32722df7e4c35235fd74e6a8ba/logging-interceptor-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.6.0_381705ca2782210a1ac2d56fb2592f3f1fd3ea55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.3.0_083db9e19c7c2baf1202b3f4f082b62a268929f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.android/build-cache/6785bc72d71ea29ace891c6c766f4b4e8adeab04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e09247f517e0ce5de097e0a6270eae1fb2b9786a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.android/build-cache/5e97cce92ebe1bed8bec92066473e906c4d20b04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38c8e02a2729ee38474552b27b4a2b0fb8a89ad7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_d434833688f7d90c5942082d3b62dfb0f1b017c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_bf75cfcc9e76a10ee98d1356e51eb98a070dfa88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.android/build-cache/17789fc233d9e71453b0475357eb5a06d58ae2aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c8e15b20173a5cc6b6a1c0a6115393a21b7e6fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.4.0_a35cf1153dc0331ceeafb89383b3e8374205389c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_06d6c2a646c945e8b44fa9fbe373bb479d195935/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.android/build-cache/255841c465775f0f7e89111840d7d054ed04a74c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e18e0e36a8ff71e82774ac8f628dd6176ea0ed70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.android/build-cache/10a0e0b602ac5d153bd586af9c7f30ad5a94b192/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cba604fcac83847cfc41930a04870d96a8b378b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_638263699e7eba80b466837ec98f03e5e4c3b2b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6e33fa445eb4a4fefd2c684aeced52d1dcc8c080">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e00cb306962c54c72b008c051bb458dd5ba67090/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.android/build-cache/a1a912b0decb385588c3a5be103d3a4e26e52647/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_533bca8787588cfb6731a80ce88de12f166be503/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.android/build-cache/a33629a6cdef3d4218d56ae36706c8cab87fc01a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce09c6f68f6f5763c4e8c2e667e75db7e6cc701f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.android/build-cache/b507ed19f961a2b3c84f5ba94aa0e2d78eebc912/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a194954034ce1538ed5f452d7ac89e3489ee188a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/Documents/AndroidSDk/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_4797e2c458f0373542591623c04d619e3fc5c7b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_b58aa16b545562dc64191db76eef1a626ab4f84c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.android/build-cache/b60f986d8580783abfd50942ccf497f036434b93/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9af98210298849d9c88e2de7154e2bf6d68bca0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.android/build-cache/b9800b73bcbb54a3d4f2e83af51c7ff67d8f2f79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9fbf2e3c506ea178deb401af09b38c4c1cd36d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6e33fa445eb4a4fefd2c684aeced52d1dcc8c080">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e00cb306962c54c72b008c051bb458dd5ba67090/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.android/build-cache/f0ffa469a309460956571867dfa5e2ef959ee72a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9d31cafd90b33278ee0bce6db3c983fdf9e38a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/Documents/AndroidSDk/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_5a0f1bce99da739542c3ac2f00ea160ed02114e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.3.0_083db9e19c7c2baf1202b3f4f082b62a268929f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.android/build-cache/ef84582fb69015ef617daed7d3b40fcec3afffbb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05b72d009d9f33f179f97781c701530aa347576c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_b58aa16b545562dc64191db76eef1a626ab4f84c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.android/build-cache/51b78e207fc284ef7fc79585701e142eb29147b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb6914faa20b90aa313698dcac04807dbd6ecc49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shamshir/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.6.0/81887458b69ddc32722df7e4c35235fd74e6a8ba/logging-interceptor-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="/Users/shamshir/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.6.0_381705ca2782210a1ac2d56fb2592f3f1fd3ea55/classes.dex" />
+    </item>
+
+</items>
